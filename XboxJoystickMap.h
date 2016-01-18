@@ -10,7 +10,7 @@
 
 enum XboxJoystickButton {
 	XboxButtonA = 1,
-	XbobxButtonB,
+	XboxButtonB,
 	XboxButtonX,
 	XboxButtonY,
 	XboxButtonLeftBumper,
