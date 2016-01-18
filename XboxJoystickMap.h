@@ -22,7 +22,7 @@ enum XboxJoystickButton {
 };
 
 enum XboxJoystickAxis {
-	XboxAxisLeftStickX = 1,
+	XboxAxisLeftStickX = 0,
 	XboxAxisLeftStickY,
 	XboxAxisLeftTrigger,
 	XboxAxisRightTrigger,
